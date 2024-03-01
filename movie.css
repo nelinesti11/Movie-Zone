@@ -1,0 +1,47 @@
+.search{
+    width: 198px;
+    height: 40px;
+    margin-top: 0;
+    vertical-align: top;
+    padding-right: 120px;
+}
+.search-button{
+    width: 198px;
+    height: 40px;
+    margin-top: 0;
+    vertical-align: center;
+    margin-left: -128px;
+    cursor: pointer;
+}
+.pic-a{
+    width: 100%;
+}
+.pic-d{
+    font-size: 26px;
+    margin-top: 0;
+    font-style: oblique;
+}
+.pic-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    max-width: 1000px;
+    row-gap: 120px;
+    column-gap: 40px;
+}
+.video-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 40px;
+    row-gap: 60px;
+    margin-top: 30px;
+
+}
+.vid-1{
+    width: 600px;
+}
+.vid-1-desc{
+    margin-top: 0;
+    margin-bottom: 40px;
+    font-weight: bold;
+    font-size: 25px;
+}
